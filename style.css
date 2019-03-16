@@ -1,15 +1,8 @@
-.image-croppermini {
-  display: inline-block;
-  border: 2px ;
-  width: 350px;
-  height:150px;
-  border-radius: 3%;
-  overflow: hidden;
-}
+
 .image-cropper {
   display: inline-block;
   border: 2px ;
-  width: 400px;
+  width: 800px;
   height:500px;
   border-radius: 3%;
   overflow: hidden;
