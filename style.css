@@ -1,3 +1,13 @@
+#blo
+
+{
+ width: 800px;
+margin:0 auto;
+background-color: #B5444E;
+text-align: center;
+align-content: center;
+border-radius: 10px;
+}
 .image-cropper {
   display: inline-block;
   border: 2px ;
